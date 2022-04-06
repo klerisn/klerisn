@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klerisn (Klérison), 22y
 - 👀 I’m interested in Hardware, Graphic Design and Code.
 - 🌱 I’m currently learning Python and Graphic Design with PS and Illustrator.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... idky
 - 📫 How to reach me klerisondesign@gmail.com
 
 <!---
